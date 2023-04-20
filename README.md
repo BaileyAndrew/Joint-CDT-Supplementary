@@ -30,7 +30,7 @@ Bulk metagenomics and metabolomics dataset from 1000 people in the Netherlands
 
 #### Why is it relevant?
 
-It is a multi-omics dataset that has been investigated in prior work involving GGMs (just the metagenomics portion), so we have used it to validate our model.  It doesn't show up in this version of the poster but in the original submitted draft we included a bit.  We removed it to add in results from the next dataset.
+It is a multi-omics dataset that has been investigated in prior work involving GGMs (just the metagenomics portion), so we have used it to validate our model.  The graph we get when running our algorithm on this dataset is given in the top left portion of our poster, although we have not yet started analysis on it.
 
 ### 10x Genomics Flash Frozen B Cell Lymphoma Dataset
 
